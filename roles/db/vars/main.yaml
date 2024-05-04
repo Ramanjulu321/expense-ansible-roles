@@ -1,3 +1,4 @@
 #mysql_root_password: ExpenseApp@1
 login_host: db.daws-78s.store
 mysql_root_password: ExpenseApp@1
+component: db
