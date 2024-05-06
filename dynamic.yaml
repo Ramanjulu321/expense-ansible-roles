@@ -1,5 +1,5 @@
 - name: install few packages
-  hosts: all
+  hosts: db
   become: yes
   tasks:
   - name: install postfix
